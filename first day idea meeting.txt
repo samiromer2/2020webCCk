@@ -1,0 +1,6 @@
+-pat(id , yearofbirth , id , address , phone)
+-doc (name , id , phone , address)
+-apom (idp , idd , date , dis , id)
+-lab (id , name , result , date)
+-phr (id , medi , expiredate)
+-fin(id , name , typeofpayment , in_out , amount)
