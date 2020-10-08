@@ -1,0 +1,8 @@
++product(id , name , exp_date)
++productcat(id , name)
++product_price(id , idp , price , date , current , idc)
++product_quan(id , idp , quan , date , current , idc)
++emp( id , name , address , phone , yearofbirth , salary)
++sells(id , idp , idprice , quan , idc , ide , date )
+
+form :4(product,productcat,emp,sells)
